@@ -39,8 +39,11 @@ article {
 
 	
 }
-body h1
+body 
 {
 	text-align: center;
 }
-
+body>h1
+{
+	text-align: center;
+}
