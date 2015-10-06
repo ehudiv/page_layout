@@ -1,0 +1,22 @@
+body
+{
+	background-color:silver;
+direction: rtl;
+text-align: center;
+
+}
+
+nav
+{
+	float: right;
+	overflow: auto;
+	border:groove;
+	padding: 10px;
+	
+	
+}
+
+#notfloat{
+	clear: right;
+	overflow: auto;
+}
