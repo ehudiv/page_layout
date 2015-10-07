@@ -1,0 +1,29 @@
+body
+{
+    background-image:url("http://images5.alphacoders.com/404/404604.jpg");
+	direction:rtl;
+	background-color:green;	
+	text-align: center;
+	
+	
+}
+.box img{
+	
+margin-top:210px;	
+ display: inline-block;
+ width: 130px;
+ height: 130px;
+ vertical-align: top;
+ padding: 40px;
+ -webkit-border-radius: 130em;
+-moz-border-radius: 130em;
+border-radius: 130em;
+
+}
+h1
+{
+	
+	text-shadow: 9px 9px green;
+	color:#FFD700;
+	margin:80px ;!important;
+}
