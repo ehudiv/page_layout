@@ -1,0 +1,24 @@
+body{
+	direction: rtl;
+	text-align: right;
+	font-family: Tahoma;
+	
+}
+ul{
+   padding-bottom:20px;
+   padding-top=20px;
+   
+   margin: 0;
+   list-style-type: none;
+   background-color: red;	
+   
+	
+}
+
+ul li
+{
+	display: inline;
+	font-size: 14px;
+	margin-right: 20px;
+	
+}

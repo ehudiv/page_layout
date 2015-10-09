@@ -11,10 +11,10 @@ body
 	
 margin-top:210px;	
  display: inline-block;
- width: 130px;
- height: 130px;
+ width: 200px;
+ height: 200px;
  vertical-align: top;
- padding: 40px;
+ padding: 10px;
  -webkit-border-radius: 130em;
 -moz-border-radius: 130em;
 border-radius: 130em;
@@ -26,4 +26,7 @@ h1
 	text-shadow: 9px 9px green;
 	color:#FFD700;
 	margin:80px ;!important;
+}
+a:hover{
+	background-color:#FFD700;
 }
