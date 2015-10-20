@@ -1,0 +1,31 @@
+body{
+	
+	font-size:48px;
+	text-align: center;
+}
+h1{
+	font-family: Tahoma;
+	font-size: 48px;
+	
+}
+@font-face
+{
+font-family: 'Indie Flower', cursive;	
+}
+h2
+{
+font-family: 'Indie Flower', cursive;
+font:bold;
+font-size:48px;
+text-shadow: 1px 1px 2px red;
+}
+p{
+	font-family: 'Indie Flower', cursive;
+	font-size:50%;
+	word-spacing: 10px;
+	letter-spacing: 2px;
+	line-height: 150%;
+
+}
+
+
