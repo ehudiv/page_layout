@@ -30,6 +30,24 @@
 			
 		
 			console.log(typeof meperson.langu.ishebrew);
+			//arrys//
+			
+			 var pair=[2,4,6,8,10,12,14,16,18,20];
+			 var numsandstr=[1,"אחד",2,"שתיים",3,"שלוש",,4,"ארבע"];
+			 var object=[{eyecolor:'brown',name:'evyatar',hight:1.77},{eyecolor:'brown',name:'shlomi',hight:1.90},{eyecolor:'brown',name:"adiel",hight:1.73},{eyecolor:'brown',name:'timor',hight:1.79}];
+			 console.log(pair);
+			console.log(pair.length);
+			console.log(pair[1],pair[3],pair[6]);
+			console.log(pair.indexOf(10));
+			pair.splice(8,2);
+			console.log(pair);
+			console.log(numsandstr);
+			console.log(object);
+			object.shift();
+			console.log(object);
+			object.unshift({eyecolor:'brown',name:'shai',hight:1.84});
+			console.log(object);
+			object[0]={face:{color:"brown"}};
 		</script>	
 		</body>
 		
